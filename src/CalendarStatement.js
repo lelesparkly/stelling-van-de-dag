@@ -1,5 +1,6 @@
 
 import { useEffect, useState } from "react";
+import { CalendarIcon } from "@heroicons/react/24/outline";
 
 const statements = [
   "Licht bestaat niet zonder schaduw. Waar ben jij bang voor te zien?",
